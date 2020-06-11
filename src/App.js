@@ -15,7 +15,7 @@ function App() {
       <button onClick={
         ()=> setCount(++count)
       }> Update Counter </button>
-
+      <br />
       <button onClick = {()=>setMorning(!isMorning)} >Update Day</button>
 
     </div>
