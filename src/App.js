@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
 import {Message} from './Message.js';
 import './App.css';
 
